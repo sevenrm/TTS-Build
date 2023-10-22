@@ -1,0 +1,54 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-3a88e4c3.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/css/assets/img/Frame.png": {
+    "file": "assets/Frame-998b4fa8.png",
+    "src": "resources/css/assets/img/Frame.png"
+  },
+  "resources/css/assets/img/Logo.png": {
+    "file": "assets/Logo-0d4175bf.png",
+    "src": "resources/css/assets/img/Logo.png"
+  },
+  "resources/css/assets/img/Mobile.png": {
+    "file": "assets/Mobile-13696cc0.png",
+    "src": "resources/css/assets/img/Mobile.png"
+  },
+  "resources/css/assets/svg/Group-1.svg": {
+    "file": "assets/Group-1-ba579837.svg",
+    "src": "resources/css/assets/svg/Group-1.svg"
+  },
+  "resources/css/assets/svg/Group.svg": {
+    "file": "assets/Group-6ecdf937.svg",
+    "src": "resources/css/assets/svg/Group.svg"
+  },
+  "resources/css/assets/svg/button1.svg": {
+    "file": "assets/button1-e0e9b9b8.svg",
+    "src": "resources/css/assets/svg/button1.svg"
+  },
+  "resources/css/assets/svg/button2.svg": {
+    "file": "assets/button2-cb55533e.svg",
+    "src": "resources/css/assets/svg/button2.svg"
+  },
+  "resources/css/assets/svg/new.svg": {
+    "file": "assets/new-dce28150.svg",
+    "src": "resources/css/assets/svg/new.svg"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-ebf50386.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "assets": [
+      "assets/Logo-0d4175bf.png"
+    ],
+    "css": [
+      "assets/app-ebf50386.css"
+    ],
+    "file": "assets/app-0fababe5.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
